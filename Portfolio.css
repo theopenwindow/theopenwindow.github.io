@@ -1,7 +1,7 @@
 
         .wrapper{
             width: 950px;
-            margin: 20px auto 40px auto;
+            margin: 20px auto 100px auto;
             background-color: #ffffff;}
             
         header {
@@ -97,6 +97,13 @@
 
         }
 
+        .d3{
+            float: left;
+            clear: both;
+            margin: 20px 20px 10px 15px;
+
+        }
+
         hgroup {
             text-align: right;
             margin-top: 40px;}
@@ -113,6 +120,16 @@
             margin: 20px auto;
 
         }
+
+        a{
+            text-decoration: none;
+        }
+
+        a:hover {
+            color: lightgrey;
+        }
+
+
 
 
 
