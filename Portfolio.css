@@ -46,18 +46,21 @@
 
         .oil_img {
             float: left;
-            width:600px;
+/*            width:600px;
+*/            
         }
 
         .oil_intro {
             float: left;
             width: 350px;
             padding-top: 70px;
+            padding-left: 20px;
 
         }
 
         #oil_img {
-            padding: 30px 10px 10px 10px;
+            margin: 30px 10px 10px 10px;
+            border: 0.5px solid black;
         }
 
         .project2, .project3 {
@@ -100,7 +103,7 @@
         .d3{
             float: left;
             clear: both;
-            margin: 20px 20px 10px 15px;
+            margin: 20px 20px 80px 15px;
 
         }
 
